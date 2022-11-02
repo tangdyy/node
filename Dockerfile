@@ -1,2 +1,2 @@
-FROM node:19.0.0
+FROM node:16.18.0
 MAINTAINER tangdyy@QQ.com
