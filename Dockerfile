@@ -1,2 +1,2 @@
-FROM node:16.18.0
+FROM node:18.12.1-alpine
 MAINTAINER tangdyy@QQ.com
